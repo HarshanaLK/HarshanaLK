@@ -1,5 +1,5 @@
 ![logo](https://github.com/HarshanaLK/Harshanasri/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Harshana</h1>
+<h1 align="center">I'm Harshana</h1>
 <h3 align="center">I am dedicated to making meaningful contributions to the field of computer science and information systems through my academic and research pursuits</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQELI5wF0nN33g/article-cover_image-shrink_600_2000/0/1697178940961?e=2147483647&v=beta&t=xZVmUbfWbZGGjCgcRcYah8niJL1TSp-xEYousaZ6BaU">
