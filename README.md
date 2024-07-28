@@ -1,4 +1,5 @@
 ![logo](https://github.com/HarshanaLK/Harshanasri/blob/main/banner.png)
+![logo](https://github.com/HarshanaLK/Harshanasri/blob/main/banner.png)
 <h1 align="center">I'm Harshana</h1>
 <h3 align="center">I am dedicated to making meaningful contributions to the field of computer science and information systems through my academic and research pursuits</h3>
 
