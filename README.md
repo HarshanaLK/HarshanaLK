@@ -92,14 +92,6 @@ I'm a computing and information systems graduate from **Sabaragamuwa University 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 📌 Selected work
-
-| Project | Highlights |
-| :--- | :--- |
-| [**LeaveHub – Employee Leave Management System**](https://github.com/HarshanaLK/leave-management) | React, TypeScript, Spring Boot, MySQL, secure authentication, leave approval workflows |
-| [**Learning Management System**](https://github.com/HarshanaLK/learning-management-system) | Learning platform, full-stack web development, deployment |
-| [**Event-driven Enterprise Commerce**](https://github.com/HarshanaLK/event-driven-enterprise-commerce) | Event-driven architecture and enterprise application design |
-
 ### 📊 GitHub activity
 
 <p align="center">
