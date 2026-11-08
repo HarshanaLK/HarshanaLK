@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+merged.json
+.DS_Store
+*.log
