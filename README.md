@@ -21,7 +21,7 @@
                #*::....:::-==++#@@@#            │ Uni     : Sabaragamuwa University            │
               *#*::....:.::-==+*@@@%            │                                              │
               +#*-::::::::-===+*@@@%            │ ── LANGUAGES ───────────────────────────     │
-               %#:=*##=--*%#**+*@@@#            │ C# / Go / Python / Java                      │
+               %#:=*##=--*%#**+*@@@#            │ Python / Java                                │
                @*-**##*:=#####++%@@             │ TypeScript / JavaScript / SQL                │
                @+:++#+-.=**##*++%@@             │                                              │
               -#+..--:..-=++===+%@*             │ ── FRONTEND ────────────────────────────     │
@@ -75,19 +75,6 @@ storage/         MySQL  PostgreSQL  Redis
 ai_research/     Machine Learning  Computer Vision  AI Agents
 ```
 
-### `harshana@github:~$ ls projects/`
-
-**01. [LeaveHub — Employee Leave Management System](https://github.com/HarshanaLK/leave-management)**  
-Full-stack leave administration with authentication, employee management, approval workflows, filtering, and email notifications.  
-`Java 21` · `Spring Boot` · `React` · `TypeScript` · `MySQL` · `AWS`
-
-**02. [Learning Management System](https://github.com/HarshanaLK/learning-management-system)**  
-A learning platform project covering application development and course management.  
-`Laravel` · `PHP` · `MySQL` · `Nginx` · `AWS`
-
-**03. AI & Research**  
-Exploring computer vision, deepfake detection, AI agents, and Wi-Fi signal-based human presence research.  
-`Python` · `TensorFlow` · `OpenCV` · `Machine Learning`
 
 ### `harshana@github:~$ cat connect.txt`
 
