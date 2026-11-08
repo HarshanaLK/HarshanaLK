@@ -53,12 +53,26 @@ INTERESTS : AI Engineering · Machine Learning · QA · Automation
 
 </div>
 
-!-- CONTRIBUTION SNAKE: uncomment after running the GitHub Actions 'Update contribution snake SVG' workflow once.
+
+<!-- CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/output/snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/output/snake-light.svg" alt="Contribution snake" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/output/snake-light.svg"
+  />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/output/snake-light.svg"
+    alt="Harshana's GitHub Contribution Snake"
+  />
 </picture>
---
+
 
 ## `$ contact --open`
 
