@@ -1,0 +1,38 @@
+[
+  {
+    "name": "LeaveHub - Leave Management",
+    "repo": "HarshanaLK/leave-management",
+    "description": "Employee leave management platform with role-based workflows, secure authentication and leave approvals.",
+    "tags": ["Java", "Spring Boot", "React"]
+  },
+  {
+    "name": "Learning Management System",
+    "repo": "HarshanaLK/learning-management-system",
+    "description": "Learning management system project with course and user-management functionality.",
+    "tags": ["TypeScript", "LMS", "Web"]
+  },
+  {
+    "name": "Enterprise Commerce",
+    "repo": "HarshanaLK/event-driven-enterprise-commerce",
+    "description": "Exploration of event-driven architecture and enterprise commerce concepts.",
+    "tags": ["Java", "Events", "Architecture"]
+  },
+  {
+    "name": "EmoRythm",
+    "repo": "HarshanaLK/EmoRythm",
+    "description": "Emotion recognition and music recommendation mobile application.",
+    "tags": ["Flutter", "Dart", "ML"]
+  },
+  {
+    "name": "Sentinel",
+    "repo": "HarshanaLK/sentinel",
+    "description": "Open-source TypeScript project from my GitHub repository collection.",
+    "tags": ["TypeScript", "Web", "Project"]
+  },
+  {
+    "name": "DevPath",
+    "repo": "HarshanaLK/DevPath",
+    "description": "Developer learning and engineering project in my GitHub repositories.",
+    "tags": ["Developer", "GitHub", "Project"]
+  }
+]

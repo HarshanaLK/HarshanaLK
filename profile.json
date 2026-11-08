@@ -1,0 +1,24 @@
+{
+  "name": "Harshana Karunarathna",
+  "username": "HarshanaLK",
+  "profile": {
+    "role": "Software Engineer | Full-Stack Developer",
+    "location": "Sri Lanka",
+    "degree": "BSc (Hons) Computing and Information Systems",
+    "university": "Sabaragamuwa University of Sri Lanka",
+    "focus": "AI Engineering / DevOps / Automation / QA / Cloud"
+  },
+  "technology": {
+    "languages": "Python / Java / C# / Go / TypeScript / SQL",
+    "frontend": "React / Next.js / Vite / HTML / CSS",
+    "backend": ".NET / Spring Boot / Node.js / Laravel",
+    "database": "MySQL / PostgreSQL / MariaDB",
+    "cloud": "AWS / Linux / Docker / Nginx / Git"
+  },
+  "contact": {
+    "email": "tharshanasri98@gmail.com",
+    "github": "https://github.com/HarshanaLK",
+    "linkedin": "https://linkedin.com/in/harshana-karunarathna",
+    "twitter": "https://twitter.com/harshanakaruna9"
+  }
+}

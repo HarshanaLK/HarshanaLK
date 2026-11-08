@@ -1,0 +1,71 @@
+<!-- Harshana Karunarathna — GitHub profile, adapted from the uploaded terminal theme -->
+<!-- SVG hero is built entirely from SVG drawing code, NOT an embedded photo. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/main/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/main/light.svg" />
+  <img width="100%" alt="Harshana Karunarathna — developer terminal profile" src="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/main/dark.svg" />
+</picture>
+
+<div align="center">
+
+### Hi, I'm Harshana 👋
+
+**Software Engineer • Full-Stack Developer • AI Engineering & DevOps Enthusiast**
+
+BSc (Hons) in Computing and Information Systems | Sabaragamuwa University of Sri Lanka
+
+[GitHub](https://github.com/HarshanaLK) · [LinkedIn](https://www.linkedin.com/in/harshana-karunarathna/) · [X / Twitter](https://twitter.com/harshanakaruna9) · [Email](mailto:tharshanasri98@gmail.com)
+
+</div>
+
+## `$ ./projects.sh --featured`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/main/projects.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/main/projects-light.svg" />
+  <img width="100%" alt="Harshana's featured software projects" src="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/main/projects.svg" />
+</picture>
+
+## `$ ./technologies.sh`
+
+```text
+LANGUAGES : Python · Java · C# · Go · TypeScript · JavaScript · SQL
+FRONTEND  : React · Next.js · Vite · HTML · CSS
+BACKEND   : .NET · Spring Boot · Node.js · Laravel · REST APIs
+DATABASES : MySQL · PostgreSQL · MariaDB
+DEVOPS    : AWS · Linux · Docker · Nginx · Git · CI/CD
+INTERESTS : AI Engineering · Machine Learning · QA · Automation
+```
+
+## `$ ./github-activity.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HarshanaLK&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshanaLK&amp;show_icons=true&amp;hide_border=true&amp;theme=default" alt="GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanaLK&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanaLK&amp;layout=compact&amp;hide_border=true&amp;theme=default" alt="Most used languages" />
+</picture>
+
+</div>
+
+<!-- CONTRIBUTION SNAKE: uncomment after running the GitHub Actions 'Update contribution snake SVG' workflow once.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/output/snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/output/snake-light.svg" alt="Contribution snake" />
+</picture>
+-->
+
+## `$ contact --open`
+
+**Email:** [tharshanasri98@gmail.com](mailto:tharshanasri98@gmail.com)  
+**LinkedIn:** [harshana-karunarathna](https://www.linkedin.com/in/harshana-karunarathna/)  
+**GitHub:** [@HarshanaLK](https://github.com/HarshanaLK)
+
+<!-- Both hero and project cards are code-generated SVG vector graphics.
+     GitHub needs an HTML <img> or Markdown image reference to display SVG files,
+     but no PNG/JPG or raster image is embedded within these SVGs. -->
