@@ -1,13 +1,8 @@
-<!-- This entire README is text-only. No PNG, JPG, SVG, image tags, or image badges. -->
+# Hi, I'm Harshana
 
-<h1 align="center">Hi, I'm Harshana Karunarathna 👋</h1>
-<p align="center"><strong>Software Engineering · Full-Stack Development · AI Engineering · DevOps</strong></p>
-<p align="center"><em>Turning ideas into useful, reliable software.</em></p>
+I am dedicated to making meaningful contributions to computer science and software engineering through my academic, project, and research work.
 
-### `harshana@github:~$ neofetch`
-
-> My portrait is ASCII art made from actual text characters. This README does not embed an image.
-
+```text
 ====================++*****++===============   ┌─ harshana@github:~$ whoami ─────────────────────────────┐
 ================+**##*##%%%#%*+=============   │                                                         │
 ==============+#%%@@@%#%@@%%%%#*##**+=======   │ Harshana Karunarathna                                   │
@@ -39,50 +34,53 @@
                                                │ GitHub   : github.com/HarshanaLK                        │
                                                │ LinkedIn : linkedin.com/in/harshana-karunarathna        │
                                                └─────────────────────────────────────────────────────────┘
-### `harshana@github:~$ cat about_me.txt`
-
-```text
-Name       : Harshana Karunarathna
-Education  : BSc (Hons) in Computing and Information Systems
-University : Sabaragamuwa University of Sri Lanka
-Focus      : Software Engineering • Cloud • AI • DevOps
-Approach   : Learn continuously. Build carefully. Solve real problems.
 ```
 
-I enjoy designing, building, testing, and deploying full-stack applications, exploring AI-assisted systems, and learning how to make software more secure, efficient, and accessible.
+## About Me
 
-### `harshana@github:~$ ls skills/`
+- 🎓 Undergraduate in **Computing and Information Systems** at **Sabaragamuwa University of Sri Lanka**
+- 💻 Interested in **Software Engineering, Full-Stack Development, AI Engineering, DevOps, and QA**
+- 🚀 Currently building and improving practical software projects
+- 📫 Reach me at **tharshanasri98@gmail.com**
+
+## Featured Projects
 
 ```text
-languages/       C#  Go  Python  Java  TypeScript  JavaScript  SQL
-frontend/        React  Next.js  Vite  HTML  CSS
-backend/         .NET  Spring Boot  Node.js  Laravel  REST APIs
-mobile/          React Native
-cloud_devops/    AWS  Linux  Nginx  Docker  Git  CI/CD
-storage/         MySQL  PostgreSQL  Redis
-ai_research/     Machine Learning  Computer Vision  AI Agents
+1. LeaveHub Employee Leave Management System
+   Stack : Java 21, Spring Boot, React, TypeScript, MySQL
+   Repo  : https://github.com/HarshanaLK/leave-management
+
+2. Learning Management System
+   Stack : Laravel / PHP / MySQL / Vite
+
+3. WiFi Human Presence Detection Research
+   Focus : Signal analysis, presence detection, experimental research
 ```
 
+## Tech Stack
 
-### `harshana@github:~$ cat connect.txt`
+```text
+Languages   : Python, Java, JavaScript, TypeScript, SQL, C#
+Frontend    : React, Next.js, Vite, HTML, CSS
+Backend     : .NET, Spring Boot, Node.js, Laravel
+Database    : MySQL, PostgreSQL
+Tools       : Git, Docker, Linux, Nginx, AWS
+Other       : REST APIs, QA Testing, Automation, AI Engineering
+```
+
+## Connect With Me
 
 ```text
 GitHub   : https://github.com/HarshanaLK
-LinkedIn : https://www.linkedin.com/in/harshana-karunarathna/
+LinkedIn : https://linkedin.com/in/harshana-karunarathna
 Twitter  : https://twitter.com/harshanakaruna9
 Email    : tharshanasri98@gmail.com
 ```
 
-[GitHub](https://github.com/HarshanaLK) · [LinkedIn](https://www.linkedin.com/in/harshana-karunarathna/) · [X / Twitter](https://twitter.com/harshanakaruna9) · [Email](mailto:tharshanasri98@gmail.com)
-
-### `harshana@github:~$ git status`
+## Notes
 
 ```text
-On branch main
-Passionate about: clean code, learning, collaboration, and shipping solutions.
-Status: always learning • always building
+- This README uses text/code only.
+- No PNG, JPG, SVG, or <img> tags are used.
+- The portrait above is generated from your uploaded photo using ASCII characters.
 ```
-
----
-
-<p align="center"><code>Thanks for visiting my GitHub profile. Happy coding!</code></p>
