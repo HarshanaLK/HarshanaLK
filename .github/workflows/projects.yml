@@ -1,4 +1,5 @@
 name: Update code-only SVG project cards
+
 on:
   workflow_dispatch:
   push:
@@ -14,24 +15,59 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-project-cards-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - name: Load live GitHub repository data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/fetch_data.py
       - name: Render two SVG project panels
         run: python3 .github/scripts/generate_projects.py merged.json .
-      - name: Commit changes only when SVG differs
+      - name: Commit and push SVG changes safely
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
           git add projects.svg projects-light.svg
-          if ! git diff --cached --quiet; then
-            git commit -m 'Update SVG project cards [skip ci]'
-            git push
+          if git diff --cached --quiet; then
+            echo "SVG cards are already up to date."
+            exit 0
           fi
+
+          cp projects.svg "$RUNNER_TEMP/projects.svg"
+          cp projects-light.svg "$RUNNER_TEMP/projects-light.svg"
+
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp "$RUNNER_TEMP/projects.svg" projects.svg
+            cp "$RUNNER_TEMP/projects-light.svg" projects-light.svg
+            git add projects.svg projects-light.svg
+
+            if git diff --cached --quiet; then
+              echo "The remote already contains these SVG updates."
+              exit 0
+            fi
+
+            git commit -m 'Update SVG project cards [skip ci]'
+            if git push origin HEAD:main; then
+              echo "SVG project cards pushed successfully."
+              exit 0
+            fi
+            echo "Remote main advanced. Retrying ($attempt of 5)."
+            sleep "$attempt"
+          done
+          echo "Unable to push after 5 attempts."
+          exit 1
