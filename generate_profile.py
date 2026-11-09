@@ -2,7 +2,8 @@
 """Generate the Harshana GitHub profile hero as code-only SVGs.
 
 The vector portrait uses coloured SVG path geometry sampled from a user-supplied
-photo. No <image> tags, external images, base64, JS, or embedded raster data.
+photo, then auto-animates its pixels into an HK monogram and back.
+No <image> tags, external images, base64, JS, or embedded raster data.
 
 python generate_profile.py --photo my-portrait.png
 python generate_profile.py --photo my-portrait.png --tiles 170 --colors 110
@@ -193,6 +194,9 @@ def main():
         svg=make_svg(vec,mode,conf,tile_w,tile_h)
         path=out/f'{mode}.svg'
         path.write_text(svg,encoding='utf8')
-        print(f'Created {path.name}: {path.stat().st_size/1024:.0f} KiB, no embedded raster')
+        # Animate the generated colour-vector portrait without embedding a photo.
+        from animated_portrait import animate_profile
+        pixels = animate_profile(path)
+        print(f'Created {path.name}: {path.stat().st_size/1024:.0f} KiB, {pixels} animated pixels, no embedded raster')
 
 if __name__=='__main__':main()

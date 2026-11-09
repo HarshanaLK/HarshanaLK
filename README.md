@@ -1,5 +1,5 @@
 <!-- Harshana Karunarathna — GitHub profile, adapted from the uploaded terminal theme -->
-<!-- SVG hero is built entirely from SVG drawing code, NOT an embedded photo. -->
+<!-- Animated SVG portrait morphs into HK using SVG/SMIL; no embedded photo or JS. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/main/dark.svg" />
@@ -80,6 +80,8 @@ INTERESTS : AI Engineering · Machine Learning · QA · Automation
 **LinkedIn:** [harshana-karunarathna](https://www.linkedin.com/in/harshana-karunarathna/)  
 **GitHub:** [@HarshanaLK](https://github.com/HarshanaLK)
 
-<!-- Both hero and project cards are code-generated SVG vector graphics.
+<!-- The hero includes a code-generated animated SVG pixel-morph portrait.
+     See README_ANIMATION.md for installation and regeneration steps.
+     Both hero and project cards are code-generated SVG vector graphics.
      GitHub needs an HTML <img> or Markdown image reference to display SVG files,
      but no PNG/JPG or raster image is embedded within these SVGs. -->
