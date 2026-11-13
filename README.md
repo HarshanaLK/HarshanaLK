@@ -55,27 +55,6 @@ INTERESTS : AI Engineering · Machine Learning · QA · Automation
 ## `$ ./github-activity.sh`
 
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <a href="https://github.com/HarshanaLK">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api?username=HarshanaLK&show_icons=true&hide_border=true&theme=tokyonight"
-      alt="Harshana's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/HarshanaLK">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanaLK&layout=compact&hide_border=true&theme=tokyonight"
-      alt="Most Used Languages"
-    />
-  </a>
-</div>
-
-
-
 <!-- CONTRIBUTION SNAKE -->
 <h2 align="center">🐍 My GitHub Contribution Snake</h2>
 
