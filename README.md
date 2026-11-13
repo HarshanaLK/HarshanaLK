@@ -25,7 +25,7 @@
     <a href="https://www.harshanakarunarathna.me"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chrome.svg" width="44" height="44" alt="Portfolio" title="Portfolio Website"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/harshana-karunarathna/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="44" height="44" alt="LinkedIn" title="LinkedIn Profile"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/harshanakaruna9"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" width="44" height="44" alt="X" title="X Profile"></a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:tharshanasri98@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="44" height="44" alt="Email" title="Send Email"></a>
+    <a href="mailto:amtharshana@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="44" height="44" alt="Email" title="Send Email"></a>
   </p>
 
 </div>
@@ -90,7 +90,8 @@ INTERESTS : AI Engineering · Machine Learning · QA · Automation
 
 ## `$ contact --open`
 
-**Email:** [tharshanasri98@gmail.com](mailto:tharshanasri98@gmail.com)  
+**Email:** [amtharshana@gmail.com](mailto:amtharshana@gmail.com)
+**Web:** [harshanakarunarathna.me](https://www.harshanakarunarathna.me)  
 **LinkedIn:** [harshana-karunarathna](https://www.linkedin.com/in/harshana-karunarathna/)  
 **GitHub:** [@HarshanaLK](https://github.com/HarshanaLK)
 
