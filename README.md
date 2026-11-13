@@ -16,29 +16,21 @@
 
   <p>BSc (Hons) in Computing and Information Systems | Sabaragamuwa University of Sri Lanka</p>
 
-
-<div align="center">
-
   <a href="https://www.harshanakarunarathna.me">
-    <img src="https://cdn.simpleicons.org/googlechrome" width="30" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harshana-karunarathna/">
-    <img src="https://cdn.simpleicons.org/linkedin" width="30" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://twitter.com/harshanakaruna9">
-    <img src="https://cdn.simpleicons.org/x" width="30" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:tharshanasri98@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="30" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 </div>
 
-
-</div>
 
 
 ## `$ ./projects.sh --featured`
