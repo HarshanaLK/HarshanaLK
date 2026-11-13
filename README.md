@@ -8,6 +8,7 @@
 </picture>
 
 
+
 <div align="center">
 
   <h3>Hi, I'm Harshana 👋</h3>
@@ -16,18 +17,23 @@
 
   <p>BSc (Hons) in Computing and Information Systems | Sabaragamuwa University of Sri Lanka</p>
 
-  <a href="https://www.harshanakarunarathna.me">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harshana-karunarathna/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/harshanakaruna9">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:tharshanasri98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <p>
+    <a href="https://www.harshanakarunarathna.me">
+      <img src="https://img.icons8.com/color/96/domain.png" width="45" height="45" alt="Website"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/harshana-karunarathna/">
+      <img src="https://img.icons8.com/color/96/linkedin-circled--v1.png" width="45" height="45" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/harshanakaruna9">
+      <img src="https://img.icons8.com/ios-filled/100/000000/twitterx--v1.png" width="45" height="45" alt="X"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:tharshanasri98@gmail.com">
+      <img src="https://img.icons8.com/color/96/gmail-new.png" width="45" height="45" alt="Email"/>
+    </a>
+  </p>
 
 </div>
 
