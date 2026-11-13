@@ -9,33 +9,27 @@
 
 
 
+
 <div align="center">
 
   <h3>Hi, I'm Harshana 👋</h3>
 
   <strong>Software Engineer • Full-Stack Developer • AI Engineering & DevOps Enthusiast</strong>
 
-  <p>BSc (Hons) in Computing and Information Systems | Sabaragamuwa University of Sri Lanka</p>
-
   <p>
-    <a href="https://www.harshanakarunarathna.me">
-      <img src="https://img.icons8.com/color/96/domain.png" width="45" height="45" alt="Website"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/harshana-karunarathna/">
-      <img src="https://img.icons8.com/color/96/linkedin-circled--v1.png" width="45" height="45" alt="LinkedIn"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/harshanakaruna9">
-      <img src="https://img.icons8.com/ios-filled/100/000000/twitterx--v1.png" width="45" height="45" alt="X"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:tharshanasri98@gmail.com">
-      <img src="https://img.icons8.com/color/96/gmail-new.png" width="45" height="45" alt="Email"/>
-    </a>
+    BSc (Hons) in Computing and Information Systems<br>
+    Sabaragamuwa University of Sri Lanka
+  </p>
+
+  <p align="center">
+    <a href="https://www.harshanakarunarathna.me"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chrome.svg" width="44" height="44" alt="Portfolio" title="Portfolio Website"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/harshana-karunarathna/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="44" height="44" alt="LinkedIn" title="LinkedIn Profile"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/harshanakaruna9"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" width="44" height="44" alt="X" title="X Profile"></a>&nbsp;&nbsp;&nbsp;
+    <a href="mailto:tharshanasri98@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="44" height="44" alt="Email" title="Send Email"></a>
   </p>
 
 </div>
+
 
 
 
