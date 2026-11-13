@@ -90,10 +90,12 @@ INTERESTS : AI Engineering · Machine Learning · QA · Automation
 
 ## `$ contact --open`
 
-**Email:** [amtharshana@gmail.com](mailto:amtharshana@gmail.com)
+
+**Email:** [amtharshana@gmail.com](mailto:amtharshana@gmail.com)  
 **Web:** [harshanakarunarathna.me](https://www.harshanakarunarathna.me)  
 **LinkedIn:** [harshana-karunarathna](https://www.linkedin.com/in/harshana-karunarathna/)  
 **GitHub:** [@HarshanaLK](https://github.com/HarshanaLK)
+
 
 <!-- The hero includes a code-generated animated SVG pixel-morph portrait.
      See README_ANIMATION.md for installation and regeneration steps.
