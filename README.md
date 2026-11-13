@@ -15,7 +15,7 @@
 
 BSc (Hons) in Computing and Information Systems | Sabaragamuwa University of Sri Lanka
 
-[GitHub](https://github.com/HarshanaLK) · [LinkedIn](https://www.linkedin.com/in/harshana-karunarathna/) · [X / Twitter](https://twitter.com/harshanakaruna9) · [Email](mailto:tharshanasri98@gmail.com)
+[Web](https://www.harshanakarunarathna.me) · [LinkedIn](https://www.linkedin.com/in/harshana-karunarathna/) · [X / Twitter](https://twitter.com/harshanakaruna9) · [Email](mailto:tharshanasri98@gmail.com)
 
 </div>
 
