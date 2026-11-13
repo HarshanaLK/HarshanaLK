@@ -56,8 +56,6 @@ INTERESTS : AI Engineering · Machine Learning · QA · Automation
 
 
 <!-- CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 My GitHub Contribution Snake</h2>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
