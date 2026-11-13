@@ -54,18 +54,26 @@ INTERESTS : AI Engineering · Machine Learning · QA · Automation
 
 ## `$ ./github-activity.sh`
 
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HarshanaLK&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshanaLK&amp;show_icons=true&amp;hide_border=true&amp;theme=default" alt="GitHub statistics" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanaLK&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanaLK&amp;layout=compact&amp;hide_border=true&amp;theme=default" alt="Most used languages" />
-</picture>
-
+  <a href="https://github.com/HarshanaLK">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api?username=HarshanaLK&show_icons=true&hide_border=true&theme=tokyonight"
+      alt="Harshana's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/HarshanaLK">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanaLK&layout=compact&hide_border=true&theme=tokyonight"
+      alt="Most Used Languages"
+    />
+  </a>
 </div>
+
 
 
 <!-- CONTRIBUTION SNAKE -->
