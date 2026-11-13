@@ -7,17 +7,30 @@
   <img width="100%" alt="Harshana Karunarathna — developer terminal profile" src="https://raw.githubusercontent.com/HarshanaLK/HarshanaLK/main/dark.svg" />
 </picture>
 
+
 <div align="center">
 
-### Hi, I'm Harshana 👋
+  <h3>Hi, I'm Harshana 👋</h3>
 
-**Software Engineer • Full-Stack Developer • AI Engineering & DevOps Enthusiast**
+  <strong>Software Engineer • Full-Stack Developer • AI Engineering & DevOps Enthusiast</strong>
 
-BSc (Hons) in Computing and Information Systems | Sabaragamuwa University of Sri Lanka
+  <p>BSc (Hons) in Computing and Information Systems | Sabaragamuwa University of Sri Lanka</p>
 
-[Web](https://www.harshanakarunarathna.me) · [LinkedIn](https://www.linkedin.com/in/harshana-karunarathna/) · [X / Twitter](https://twitter.com/harshanakaruna9) · [Email](mailto:tharshanasri98@gmail.com)
+  <a href="https://www.harshanakarunarathna.me">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshana-karunarathna/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/harshanakaruna9">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:tharshanasri98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 </div>
+
 
 ## `$ ./projects.sh --featured`
 
