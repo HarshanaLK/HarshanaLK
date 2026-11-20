@@ -148,8 +148,8 @@
 <text x="493" y="250" font-size="14" fill="#405773">University:</text><text x="615" y="250" font-size="13" fill="#152236">Sabaragamuwa University of Sri Lanka</text>
 <line x1="487" y1="269" x2="1127" y2="269" stroke="url(#barline)" opacity=".66" />
 <text x="489" y="291" font-size="12" letter-spacing="2.1" font-weight="700" fill="#087DA1">CORE.TOOLCHAIN</text>
-<text x="493" y="319" font-size="14" fill="#405773">Languages :</text><text x="615" y="319" font-size="13" fill="#152236">Python / Java / C# / Go / TypeScript / SQL</text>
-<text x="493" y="344" font-size="14" fill="#405773">Frontend  :</text><text x="615" y="344" font-size="13" fill="#152236">React / Next.js / Vite / HTML / CSS</text>
+<text x="493" y="319" font-size="14" fill="#405773">Languages :</text><text x="615" y="319" font-size="13" fill="#152236">Python / Java / PHP / TypeScript / SQL</text>
+<text x="493" y="344" font-size="14" fill="#405773">Frontend  :</text><text x="615" y="344" font-size="13" fill="#152236">React / Next.js / Vite / Tailwind CSS / CSS</text>
 <text x="493" y="369" font-size="14" fill="#405773">Backend   :</text><text x="615" y="369" font-size="13" fill="#152236">.NET / Spring Boot / Node.js / Laravel</text>
 <text x="493" y="394" font-size="14" fill="#405773">Database  :</text><text x="615" y="394" font-size="13" fill="#152236">MySQL / PostgreSQL / MariaDB</text>
 <text x="493" y="419" font-size="14" fill="#405773">Cloud/Dev :</text><text x="615" y="419" font-size="13" fill="#152236">AWS / Linux / Docker / Nginx / Git</text>
